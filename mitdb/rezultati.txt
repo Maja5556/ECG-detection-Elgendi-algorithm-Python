@@ -1,0 +1,2 @@
+Signal    TP    FP    FN     Se    +P    execution_time 
+Ukupno:    0     0     0   NaN   NaN    NaN 
